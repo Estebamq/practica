@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1589438982 source:c:\users\familia quiroz\desktop\ejemplo\proyecto_14\clientesmascotas.c
+	"clientesMascotas.h"
+	<stdio.h>
+	<string.h>
+
+1589438907 c:\users\familia quiroz\desktop\ejemplo\proyecto_14\clientesmascotas.h
+	"mascotas.h"
+
+1589441941 c:\users\familia quiroz\desktop\ejemplo\proyecto_14\clientes.h
+
+1589441941 c:\users\familia quiroz\desktop\ejemplo\proyecto_14\mascotas.h
+	"clientes.h"
+
+1589442218 source:c:\users\familia quiroz\desktop\ejemplo\proyecto_14\main.c
+	<stdio.h>
+	<stdlib.h>
+	"clientesMascotas.h"
+
+1589442270 source:c:\users\familia quiroz\desktop\ejemplo\proyecto_14\mascotas.c
+	<stdio.h>
+	<string.h>
+	"mascotas.h"
+
+1589442270 source:c:\users\familia quiroz\desktop\ejemplo\proyecto_14\clientes.c
+	<stdio.h>
+	<string.h>
+	"clientes.h"
+
